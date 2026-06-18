@@ -8,14 +8,9 @@ const Bio = () => {
         Building trustworthy data systems for healthcare
       </h2>
       <p className="text-text dark:text-darkmode-text leading-8">
-        I&apos;m Juaquin Sanchez, a data engineer and technical lead based in
-        Cambridge, Massachusetts. I focus on healthcare data infrastructure,
-        privacy-conscious system design, and the practical use of Palantir
-        Foundry to support high-impact decision making. My work spans pipeline
-        architecture, governance, and platform tooling that helps teams ship
-        reliable systems without sacrificing clarity. I care most about building
-        technology that is useful, resilient, and easier for people to
-        understand.
+        I'm a data engineer and systems builder based in Cambridge, Massachusetts. Professionally, I work on complex data problems, privacy-conscious infrastructure, and developing solutions that help make science faster.
+        Outside of work, I'm usually climbing, sailing, hosting gatherings, experimenting with self-hosted technology, or disappearing into a new project that seemed like a good idea at the time. I'm fascinated by communities, local-first tools, intentional living, and the intersection between the digital and physical worlds.
+        I enjoy building things that are useful, learning things that are difficult, and bringing interesting people together. This site is a collection of projects, notes, experiments, and ongoing adventures.
       </p>
     </section>
   );
